@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901993793856",
+    "project_id": "newsstories-7ca7f",
+    "storage_bucket": "newsstories-7ca7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901993793856:android:52cd4ff8196d23d13412a5",
+        "android_client_info": {
+          "package_name": "com.revealInside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXlQAs4IJso7oSMIXpu-ZPAv__J0WV-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

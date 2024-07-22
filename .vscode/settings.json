@@ -1,0 +1,4 @@
+{
+  "editor.acceptSuggestionOnEnter": "on",
+  "dart.flutterSdkPath": ".fvm/versions/3.22.2"
+}
